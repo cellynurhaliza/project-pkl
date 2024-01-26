@@ -17,6 +17,7 @@
 }
 body{
     background-color: var(--color-green);
+    overflow-x: hidden;
 }
 /* Home Page */
 h1{
