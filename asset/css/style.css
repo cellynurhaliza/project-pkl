@@ -130,7 +130,7 @@ h1{
     top: 500px;
     left: 1200px;
 }
-.img-rectangle{
+.img-rectangle, .img-rectangle1{
     position: relative;
     left: 700px;
     top: 200px;
@@ -211,3 +211,4 @@ h1{
 .price1{
     top: -360px;
 }
+
