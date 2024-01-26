@@ -532,3 +532,39 @@ h1{
     top: -1300px;
     left: 450px;
 }
+/* menu */
+.text-titlePrice{
+    position: relative;
+    top: 250px;
+    left: 470px;
+}
+.pre-paragrafLorem9{
+    position: relative;
+    top: 300px;
+    left: -20px;
+    text-align: center;
+    color: grey;
+}
+.img-vector23{
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
+.img-leaf{
+    position: relative;
+    top: 70px;
+    left: 800px;
+    width: 300px;
+}
+.img-poster{
+    position: absolute;
+    top: 1500px;
+    left: 300px;
+    width: 900px;
+}
+.img-leaf1{
+    position: absolute;
+    top: 2500px;
+    left: 150px;
+    width: 300px;
+}
