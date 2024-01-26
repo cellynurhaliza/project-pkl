@@ -193,8 +193,8 @@ h1{
 }
 .card1{
     position: absolute;
-    left: 400px;
-    top: 1310px;
+    left: 340px;
+    top: 1270px;
 }
 .pre-paragrafLorem11{
     position: relative;
@@ -210,5 +210,138 @@ h1{
 }
 .price1{
     top: -360px;
+}
+<<<<<<< HEAD
+
+=======
+.card2{
+    position: relative;
+    top: -600px;
+    left: 670px;
+}
+.text-titleFoodTofu{
+    left: 230px;
+    top: -280px;
+}
+.pre-paragrafLorem2{
+    top: 290px;
+    left: 150px;
+    text-align: center;
+}
+.price2{
+    top: -420px;
+}
+.card3{
+    position: relative;
+    top: -1150px;
+    left: 1000px;
+}
+.pre-paragrafLorem3{
+    text-align: center;
+    top: 290px;
+    left: 150px;
+}
+.text-titleFoodShrimp1{
+    top: -290px;
+}
+.price3{
+    top: -420px;
+    left: 120px;
+}
+.img-backdrop{
+    position: relative;
+    top: -1000px;
+    left: 100px;
+}
+.img-vector22{
+    position: relative;
+    top: -1250px;
+    left: 150px;
+    width: 230px;
+}
+.text-titleWelcome{
+    font-family: var(--font-big);
+    top: 2040px;
+    left: 800px;
+}
+.pre-paragrafLorem4{
+    font-family: var(--font-medium);
+    color: var(--color-cream);
+    top: 2200px;
+    left: 800px;
+}
+.btn-menu1{
+    color: var(--color-white);
+    top: 2300px;
+    left: 800px;
+}
+.btn-3{
+    color: var(--color-blue);
+    position: relative;
+    top: -1165px;
+    left: -300px;
+}
+.img-garlic{
+    position: absolute;
+    top: 2300px;
+    left: 650px;
+}
+.img-garlic1{
+    position: absolute;
+    top: 2400px;
+    left: 800px;
+}
+.img-garlicc{
+    position: relative;
+    top: -600px;
+    left: -50px;
+}
+.img-rectangle1{
+    position: relative;
+    top: -700px;
+    left: 300px;
+}
+.text-titleOur1{
+    position: relative;
+    top: -680px;
+    left: 230px;
+}
+.pre-paragrafLorem5{
+    color: var(--color-cream);
+    font-family: var(--font-medium);
+    position: relative;
+    top: -650px;
+    left: 230px;
+    line-height: 30px;
+}
+.btn-menu2{
+    color: var(--color-white);
+    position: relative;
+    top: -620px;
+    left: 230px;
+}
+.btn-4{
+    position: relative;
+    top: -670px;
+    left: -840px;
+}
+.img-flow1{
+    position: absolute;
+    top: 2500px;
+    left: 800px;
+}
+.bg1{
+    position: absolute;
+    top: 2700px;
+    left: 850px;
+}
+.img-chef{
+    position: absolute;
+    top: 2350px;
+    left: 800px;
+    width: 700px;
+}
+.section-bg{
+    background-color: var(--color-white);
 }
 
