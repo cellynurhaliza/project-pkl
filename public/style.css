@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre&family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=David+Libre&family=Inter&family=Poppins:wght@300;400;500;600&display=swap');
+:root{
+    --color-cream: #C5A166;
+    --color-green: #18200F;
+    --color-white: #FFFFFF;
+    --color-blue: #101A24;
+
+    --font-big: 'David Libre', sans-serif;
+    --font-medium: 'Inter', sans-serif
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: var(--color-green);
+}
+/* Home Page */
+h1{
+    font-family: var(--font-big);
+    color: var(--color-cream);
+}
+.img-plantCulture{
+    height: 124px;
+    width: 241px;
+    padding: 10px;
+    position: absolute;
+    float: left;
+}
+.navbar{
+    font-family: var(--font-medium);
+    position: absolute;
+    top: 70px;
+    left: 400px;
+}
+.navbar ul li{
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+.navbar ul li a{
+    color: var(--color-white);
+    padding: 14px 30px;
+    font-size: 20px;
+}
+.btn-bookATable{
+    font-family: var(--font-big);
+    color: var(--color-green);
+    background-color: var(--color-cream);
+    cursor: pointer;
+    padding: 20px 50px 20px 50px;
+    border: none;
+    border-radius: 20px 5px 20px 5px;
+    font-size: 20px;
+    float: right;
+    margin: 50px;
+}
+.img-flow{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+.text-title{
+    color: var(--color-white);
+    font-size: 60px;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+.pre-title{
+    font-family: var(--font-big);
+    line-height: 72px;
+}
+.pre-paragraf{
+    color: var(--color-white);
+    font-family: var(--font-medium);
+    line-height: 25px;
+    position: absolute;
+    top: 450px;
+    left: 160px;
+}
+.btn-menu{
+    font-family: var(--font-big);
+    color: var(--color-cream);
+    background-color: var(--color-blue);
+    cursor: pointer;
+    padding: 20px 50px 20px 50px;
+    border: none;
+    border-radius: 20px 5px 20px 5px;
+    font-size: 20px;
+    position: absolute;
+    top: 560px;
+    left: 160px;
+}
+.btn-2{
+    position: absolute;
+    top: 510px;
+    left: 300px;
+}
+.icon{
+    width: 40px;
+    padding: 7px;
+    position: relative;
+    top: -38px;
+    left: 160px;
+    cursor: pointer;
+}
+.img-vector1{
+    position: absolute;
+    top: 130px;
+    left: 600px;
+}
+.img-vector2{
+    position: absolute;
+    top: 130px;
+    left: 1100px;
+}
+.img-layer{
+    width: 550px;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+}
+.img-vector{
+    position: absolute;
+    top: 500px;
+    left: 1200px;
+}
+.img-rectangle{
+    position: relative;
+    left: 700px;
+    top: 200px;
+}
+.text-titleOur{
+    position: relative;
+    text-align: center;
+    left: -10px;
+}
+.pre-paragrafLorem{
+    position: relative;
+    text-align: center;
+    top: 290px;
+    left: -10px;
+}
+.img-vector21{
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+.img-vectorr{
+    position: relative;
+    left: 750px;
+}
+.img-food{
+    position: relative;
+    left: 170px;
+    top: -300px;
+    width: 200px;
+}
+.icon-price{
+    width: 50px;
+    position: relative;
+    top: -400px;
+    left: 120px;
+}
+.card-bg{
+    width: 265px;
+    height: 309px;
+    border-radius: 60px 10px 60px 10px;
+    position: relative;
+    left: 130px;
+    top: 100px;
+    background-color: rgba(255, 255, 255, 0.178);
+    border: 4px solid var(--color-white);
+}
+.text-titleFood{
+    color: var(--color-white);
+    font-family: var(--font-medium);
+    font-size: 20px;
+    position: relative;
+    top: -260px;
+    left: 150px;
+}
+.pre-paragrafLorem1{
+    position: relative;
+    top: -230px;
+    left: -490px;
+    text-align: center;
+}
+.card1{
+    position: absolute;
+    left: 400px;
+    top: 1310px;
+}
+.pre-paragrafLorem11{
+    position: relative;
+    top: -230px;
+    left: 135px;
+    text-align: center;
+}
+.text-titleFoodShrimp{
+    top: -220px;
+}
+.pre-paragrafLorem11{
+    top: -190px;
+}
+.price1{
+    top: -360px;
+}
