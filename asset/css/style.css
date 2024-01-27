@@ -532,7 +532,7 @@ h1{
     top: -1300px;
     left: 450px;
 }
-/* menu */
+/* ============================================= MENU ===================================================== */
 .text-titlePrice{
     position: relative;
     top: 250px;
@@ -567,4 +567,420 @@ h1{
     top: 2500px;
     left: 150px;
     width: 300px;
+}
+.img-leaf2{
+    position: absolute;
+    top: 3300px;
+    left: 1100px;
+    width: 300px;
+}
+.img-vector24{
+    position: relative;
+    top: 2100px;
+    left: -600px;
+    width: 200px;
+}
+.img-poster1{
+    position: absolute;
+    top: 3000px;
+    left: 300px;
+    width: 900px;
+}
+.pre-paragrafLorem10{
+    font-family: var(--font-medium);
+    color: grey;
+    text-align: center;
+    position: relative;
+    top: 2850px;
+}
+.btn-5{
+    position: relative;
+    top: 2900px;
+    left: -600px;
+}
+.footer-menu{
+    position: relative;
+    top: 3700px;
+}
+.img-garlic2{
+    position: absolute;
+    top: -600px;
+    left: 50px;
+    width: 150px;
+}
+.img-leaf3{
+    position: absolute;
+    top: -700px;
+    left: 1200px;
+}
+/* ========================================= VIP ROOM ===================================================== */
+.sec-bg{
+    position: relative;
+    top: -5px;
+    /* gap: -4000em; */
+}
+.img-rectangle2{
+    position: relative;
+    top: -100px;
+    left: 500px;
+}
+.text-titlePrice{
+    color: var(--color-blue);
+    position: relative;
+    top: -80px;
+    left: 290px;
+}
+.pre-paragrafLorem11{
+    color: grey;
+    text-align: center;
+    position: relative; 
+    top: -50px;
+    left: -10px;   
+}
+.img-garlic3{
+    width: 150px;
+    position: relative;
+    top: -300px;
+    left: 800px;
+}
+.img-vector25{
+    position: absolute;
+    top: 350px;
+    left: 1100px;
+}
+.card-vip{
+    display: inline-flex;
+    padding: 10px 101px 18px 108px;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    border-radius: 15px;
+    background: #DEB572; 
+    position: relative;
+    left: -300px;   
+}
+.text-titleUp{
+    color: var(--color-white);
+    font-family: var(--font-medium);
+}
+.text-minimum{
+    font-family: var(--font-medium);
+    color: var(--color-white);
+    font-size: 20px;
+}
+.pre-lunch{
+    color: var(--color-white);
+    font-family: var(--font-medium);
+    text-align: center;
+    font-size: 20px;
+    line-height: 29px;
+}
+.vip1{
+    position: relative;
+    left: -340px;
+}
+.vip3{
+    position: relative;
+    top: -270px;
+    left: 800px;
+}
+.img-garlic4{
+    position: relative;
+    left: 100px;
+}
+.footer-vip{
+    position: relative;
+    top: 800px;
+}
+.img-vector26{
+    position: absolute;
+    top: -700px;
+    left: 300px;
+    width: 200px;
+}
+.img-flow4{
+    position: absolute;
+    top: -600px;
+    left: 450px;
+}
+/*================================================= ABOUT ======================================================*/
+.text-partner{
+    position: relative;
+    top: 250px;
+    text-align: center;
+    font-family: var(--font-big);
+    color: var(--color-white);
+    font-size: 60px;
+}
+.rectangle{
+    position: relative;
+    top: 200px;
+}
+.img-rectangle-1{
+    position: relative;
+    left: 60px;
+}
+.text-pt{
+    color: var(--color-white);
+    position: relative;
+    top: 20px;
+}
+.div-rectangle1{
+    position: relative;
+    left: 200px;
+    top: 340px;
+}
+.div-rectangle2{
+    position: relative;
+    top: 200px;
+    left: 640px;
+}
+.div-rectangle3{
+    position: relative;
+    top: 55px;
+    left: 1100px;
+}
+.text-titleAbout{
+    position: relative;
+    left: 0px;
+    text-align: center;
+}
+.pre-paragrafPlant1{
+    font-family: var(--font-medium);
+    color: var(--color-white);
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
+.pre-paragrafPlant2{
+    font-family: var(--font-medium);
+    color: var(--color-white);
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    top: 400px;
+}
+.pre-paragrafPlant3{
+    font-family: var(--font-medium);
+    color: var(--color-white);
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    top: 500px;
+}
+.footer-about{
+    position: relative;
+    top: 1300px;
+}
+/* ============================================ CONTACT =========================================================*/
+.text-titleContact{
+    position: absolute;
+    top: 450px;
+    left: 600px;
+    font-size: 64px;
+    font-family: var(--font-medium);
+}
+.div-contact1{
+    position: relative;
+    top: 310px;
+    left: 100px;
+}
+.div-contact2{
+    position: relative;
+    top: 250px;
+    left: 450px;
+}
+.div-contact3{
+    position: relative;
+    top: 190px;
+    left: 800px;
+}
+.div-contact4{
+    position: relative;
+    top: 115px;
+    left: 1150px;
+}
+.img-flow5{
+    width: 272px;
+    height: 283px;
+    position: absolute;
+}
+.name-contact{
+    color: var(--color-white);
+    font-size: 36px;
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+.contactPas{
+    font-size: 20px;
+    color: grey;
+    font-family: var(--font-medium);
+    position: relative;
+    top: 120px;
+    left: 10px;
+}
+.wa{
+    left: 70px;
+}
+.noWa{
+    left: 55px;
+}
+.ad{
+    left: 80px;
+}
+.pre-wood{
+    font-family: var(--font-medium);
+    color: grey;
+    text-align: center;
+    position: relative;
+    left: -630px;
+    top: 120px;
+}
+.res{
+    left: -45px;
+}
+.pre-lorem{
+    color: grey;
+    font-family: var(--font-medium);
+    position: relative;
+    top: 120px;
+    left: 60px;
+    font-size: 16px;
+}
+.maps{
+    position: relative;
+    top: 400px;
+    width: 1540px;
+    height: 707px;
+}
+/*============================================== RESERVATION ==================================================*/
+.text-titleRese{
+    position: relative;
+    left: 600px;
+}
+.pre-paragrafLorem12{
+    color: grey;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+.img-leaf4{
+    position: relative;
+    top: 300px;
+    left: 900px;
+}
+.img-garlic6{
+    position: relative;
+    top: 1200px;
+    left: 100px;
+}
+.message{
+    background-color: var(--color-white);
+    border-radius: 15px;
+    display: flex;
+    width: 671px;
+    padding-bottom: 23px;
+    flex-direction: column;
+    align-items: center;
+    gap: 80px;
+    position: relative;
+    top: 200px;
+    left: 90px;
+}
+.msg-bg{
+    background-color: var(--color-cream);
+    border-radius: 15px 15px 0px 0px;
+    width: 671px;
+    height: 144px;
+}
+.img-plantCulture2{
+    width: 163px;
+    height: 91.402px;
+    position: relative;
+    top: -200px;
+}
+.msg-input{
+    width: 576px;
+    height: 75px;
+    position: relative;
+    top: -200px;
+}
+.pre-lorem1{
+    color: var(--color-white);
+    text-align: center;
+    font-family: var(--font-big);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 37px;
+    position: relative;
+    top: -700px;
+    left: 380px;
+}
+.text-titleAdRes{
+    font-family: var(--font-big);
+    color: var(--color-white);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 65px; /* 180.556% */
+    position: relative;
+    top: -600px;
+    left: 400px;
+}
+.pre-wood1{
+    color: grey;
+    text-align: center;
+    font-family: var(--font-medium);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px; /* 145% */
+    position: relative;
+    top: -570px;
+    left: 400px;
+}
+.text-titleRes1{
+    color: var(--color-white);
+    text-align: center;
+    font-family: var(--font-big);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 65px; /* 180.556% */
+    text-transform: capitalize;
+    position: relative;
+    top: -500px;
+    left: 410px;
+}
+.lorem1{
+    top: -470px;
+    left: 1080px;
+    font-size: 20px;
+}
+.wa1{
+    top: -400px;
+}
+.noWa1{
+    color: grey;
+    font-family: var(--font-medium);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px; /* 145% */
+    position: relative;
+    top: -390px;
+    left: 1090px;
+}
+.img-garlic5{
+    position: relative;
+    top: -500px;
+}
+.footer-reservation{
+    position: relative;
+    top: 500px;
 }
