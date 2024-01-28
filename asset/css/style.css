@@ -197,17 +197,15 @@ h1{
     left: 340px;
     top: 1270px;
 }
-.pre-paragrafLorem11{
+.pre-paragrafLorem111{
+    z-index: 9999;
     position: relative;
-    top: -230px;
-    left: 135px;
     text-align: center;
+    top: -190px;
+    left: 130px;
 }
 .text-titleFoodShrimp{
     top: -220px;
-}
-.pre-paragrafLorem11{
-    top: -190px;
 }
 .price1{
     top: -360px;
