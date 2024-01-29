@@ -258,6 +258,39 @@ h1{
     top: -420px;
     left: 120px;
 }
+.card:hover {
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    transition: 0.2s;
+  }
+.card1:hover {
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    transition: 0.2s;
+  }
+.card2:hover {
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    transition: 0.2s;
+  }
+.card3:hover {
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    transition: 0.2s;
+  }
+/* .card-bg:hover{
+    background-color: var(--color-cream);
+} */
+  
+  .card:hover .overlay {
+    transform: scale(4) translateZ(0);
+  }
+  
+  .card:hover .circle {
+    border-color: var(--bg-color-light);
+    background: var(--bg-color);
+  }
+  
+  .card:hover .circle:after {
+    background: var(--bg-color-light);
+  }
+  
 .img-backdrop{
     position: relative;
     top: -1000px;
