@@ -48,6 +48,10 @@ h1{
     font-size: 20px;
     text-decoration: none;
 }
+.navbar ul li a:hover{
+    color: var(--color-cream);
+    transition: 0.5s;
+}
 .btn-bookATable{
     font-family: var(--font-big);
     color: var(--color-green);
@@ -59,6 +63,11 @@ h1{
     font-size: 20px;
     float: right;
     margin: 50px;
+}
+.btn-bookATable:hover{
+    color: var(--color-white);
+    background-color: var(--color-blue);
+    transition: 0.5s;
 }
 .img-flow{
     position: relative;
@@ -86,7 +95,7 @@ h1{
 }
 .btn-menu{
     font-family: var(--font-big);
-    color: var(--color-cream);
+    color: var(--color-white);
     background-color: var(--color-blue);
     cursor: pointer;
     padding: 20px 50px 20px 50px;
@@ -96,6 +105,11 @@ h1{
     position: absolute;
     top: 560px;
     left: 160px;
+}
+.btn-menu:hover{
+    color: var(--color-blue);
+    background-color: var(--color-cream);
+    transition: 0.5s;
 }
 .btn-2{
     position: absolute;
