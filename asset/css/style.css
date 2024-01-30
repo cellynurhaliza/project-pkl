@@ -12,6 +12,7 @@
 *{
     margin: 0;
     padding: 0;
+    /* box-sizing: border-box; */
     /* list-style: none; */
     /* text-decoration: none; */
 }
@@ -40,7 +41,7 @@ h1{
 .navbar ul li{
     display: inline;
     padding: 0;
-    margin: 0;
+    margin: 0;  
 }
 .navbar ul li a{
     color: var(--color-white);
@@ -50,7 +51,8 @@ h1{
 }
 .navbar ul li a:hover{
     color: var(--color-cream);
-    transition: 0.5s;
+    /* transition: 0.5s; */
+    border-bottom: 3px solid var(--color-cream);
 }
 .btn-bookATable{
     font-family: var(--font-big);
@@ -287,20 +289,6 @@ h1{
 /* .card-bg:hover{
     background-color: var(--color-cream);
 } */
-  
-  .card:hover .overlay {
-    transform: scale(4) translateZ(0);
-  }
-  
-  .card:hover .circle {
-    border-color: var(--bg-color-light);
-    background: var(--bg-color);
-  }
-  
-  .card:hover .circle:after {
-    background: var(--bg-color-light);
-  }
-  
 .img-backdrop{
     position: relative;
     top: -1000px;
@@ -1038,4 +1026,12 @@ h1{
 .footer-reservation{
     position: relative;
     top: 500px;
+}
+
+/* ========================================= RESPONSIVE ======================================================*/
+@media screen and (max-width: 1730px) {
+    /* .btn-bookATable{
+        position: relative;
+        left: -390px;
+    } */
 }
