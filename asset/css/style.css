@@ -16,7 +16,8 @@
     /* text-decoration: none; */
 }
 body{
-    background-color: var(--color-green);
+    /* background-color: var(--color-green); */
+    background-image: url(../img/backdrop1.png);
     overflow-x: hidden;
 }
 /* Home Page */
@@ -1039,3 +1040,13 @@ h1{
     position: relative;
     top: 500px;
 }
+
+
+
+
+/* ================================================================ */
+
+/* body {
+    font-size: 16px; /* Set a base font size */
+
+
