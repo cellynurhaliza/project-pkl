@@ -17,7 +17,8 @@
     /* text-decoration: none; */
 }
 body{
-    background-color: var(--color-green);
+    /* background-color: var(--color-green); */
+    background-image: url(../img/backdrop1.png);
     overflow-x: hidden;
 }
 /* Home Page */
@@ -1028,6 +1029,7 @@ h1{
     top: 500px;
 }
 
+<<<<<<< HEAD
 /* ========================================= RESPONSIVE ======================================================*/
 @media screen and (max-width: 1730px) {
     /* .btn-bookATable{
@@ -1035,3 +1037,14 @@ h1{
         left: -390px;
     } */
 }
+=======
+
+
+
+/* ================================================================ */
+
+/* body {
+    font-size: 16px; /* Set a base font size */
+
+
+>>>>>>> ecaf9d5f8fb123ef1ae6f0ef0b207b23c771a587
